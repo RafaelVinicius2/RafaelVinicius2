@@ -5,7 +5,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rafavimdc)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafavimdc@gmail.com)
 
-![Rafael Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelVinicius2&show_icons=true&theme=radical)
+![Rafael Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelviniciusbr&show_icons=true&theme=radical)
 
 
 ### Tecnologias que estudo no meu dia a dia:
