@@ -26,4 +26,4 @@
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div></br>
 
-Técnico em Informática e estudante de Análise e Desenvolvimento de Sistemas, iniciante mas com grande vontade de aprender, curioso e admirador de soluções inteligentes tanto em programação quanto automação em geral.
+Técnico em Informática e graduado em Análise e Desenvolvimento de Sistemas, iniciante mas com grande vontade de aprender, curioso e admirador de soluções inteligentes tanto em programação quanto automação em geral.
